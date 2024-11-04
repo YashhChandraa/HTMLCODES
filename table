@@ -1,0 +1,21 @@
+<html>
+<head>
+<cap>table</cap>
+<table border="10"> 
+<body>
+<tr>
+<th height="50" width="200"> month</th>
+<th>salary</th>
+<th>expense</th>
+<th>savings</th>
+</tr>
+<tr>
+<td>january</td>
+<td>50000</td>
+<td>20000</td>
+<td>30000</td>
+</tr>
+</body>
+</table>
+</head>
+</html>
