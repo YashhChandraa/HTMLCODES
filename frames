@@ -1,0 +1,11 @@
+<html>
+<head>
+<title>
+Frames
+</title>
+</head>
+<frameset cols="25%, 75%" border="5">
+<frame src="https://www.flipkart.com">
+<frame src="https://smytten.com">
+</frameset>
+</html>
